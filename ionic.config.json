@@ -1,0 +1,7 @@
+{
+  "name": "DevPet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
